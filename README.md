@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @rafabelts
-- 👀 I’m interested in creating Apps
-- 🌱 I’m currently learning React native
-- 📫 How to reach me ...
+# Hi, I'm Rafa Beltran
+## About me
+- I'm currently studying the software engineering major
+- Currently learning backend and Go by myself
+- Open to collaborate in open source projects
+
+
+
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rafabelts)](https://holopin.io/@rafabelts)
-<!---
-rafabelts/rafabelts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
