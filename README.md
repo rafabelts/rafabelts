@@ -7,4 +7,4 @@
 
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rafabelts)](https://holopin.io/@rafabelts)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafabelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabelts)](https://github.com/rafabelts/github-readme-stats)
