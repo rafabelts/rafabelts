@@ -1,7 +1,7 @@
 # Hi, I'm Rafa Beltran
 ## About me
 - I'm currently studying the software engineering major
-- Currently learning backend and Go by myself
+- Currently learning backend engineering and Go by myself
 - Open to collaborate in open source projects
 ## My stats
 ![rafabelts's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabelts&show_icons=true&theme=tokyonight)
