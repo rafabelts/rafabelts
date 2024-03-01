@@ -1,4 +1,4 @@
-# Hi, I'm Rafa Beltran
+# Hi, I'm Rafa
 ## About me
 - I'm currently studying the software engineering major
 - Currently learning backend engineering and Go by myself
