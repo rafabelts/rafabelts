@@ -8,6 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 ## My tech stack
 Some of the technologies that I know and use:</br>
-[![My Skills](https://skillicons.dev/icons?i=js,dart,react,flutter,nodejs,figma,git,github,vim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,dart,react,flutter,nodejs,figma,git,github,vim&theme=dark)](https://skillicons.dev)</br>
 
+----
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rafabelts)](https://holopin.io/@rafabelts)
