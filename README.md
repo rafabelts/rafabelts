@@ -4,8 +4,9 @@
 - Currently learning backend engineering and Go by myself
 - Open to collaborate in open source projects
 ## My stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafabelts&show_icons=true&hide_border=true&theme=merko" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=merko"/>
+![rafabelts's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabelts&show_icons=true&hide_border=true&theme=dracula&line_height=20)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=dracula)
+
 ## My tech stack
 Some of the technologies that I know and use:</br></br>
 [![My Skills](https://skillicons.dev/icons?i=js,dart,react,flutter,nodejs,figma,git,github,vim&theme=dark)](https://skillicons.dev)</br></br>
