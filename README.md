@@ -5,7 +5,7 @@
 - Open to collaborate in open source projects
 ## My stats
 ![rafabelts's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabelts&show_icons=true&hide_border=true&line_height=20&theme=github_dark)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide_border=true&theme=github_dark)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabelts&layout=compact&hide_border=true&theme=github_dark)
 
 ## My tech stack
 Some of the technologies that I know and use:</br></br>
