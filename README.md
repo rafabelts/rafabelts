@@ -39,16 +39,5 @@ Tools and technologies I enjoy working with:
 
 ## Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafa-beltran/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0000-7719-5895" title="ORCID">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rafabeltrans17@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32"/>
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafa-beltran/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rafabeltrans17@gmail.com)
