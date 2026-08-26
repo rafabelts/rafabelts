@@ -10,12 +10,29 @@ Software Engineering student and Research Assistant at Universidad Veracruzana, 
 - Based in Mexico and open to software engineering, machine learning, and research opportunities.
 
 ## Technologies
-My safe place
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,sql&theme=dark)](https://skillicons.dev)</br></br>
 
+Tools and technologies I enjoy working with:
 
+**Languages**
 
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,java&theme=dark)](https://skillicons.dev)
 
-## My tech stack
-Some of the technologies that I know and use:</br></br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,figma,git,github,python,vim&theme=dark)](https://skillicons.dev)</br></br>
+**Software Engineering**
+
+[![Software Engineering](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,mysql&theme=dark)](https://skillicons.dev)
+
+**Machine Learning & Research**
+
+[![Machine Learning](https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark)](https://skillicons.dev)
+
+## Selected Work
+
+- **[Medical Image Registration Research](https://github.com/rafabelts/mri-alignment)** — Developed a lightweight CNN–Transformer for motion estimation and ROI localization from 2D cine-MRI using PyTorch.
+
+- **Software Requirements Generation** *(in progress)* — Fine-tuned Mistral 7B with QLoRA to generate software requirements following the EARS syntax. A public implementation is currently being prepared.
+
+- **RAG MX Platforms** *(professional experience — private repositories)* — Built full-stack applications, REST APIs, relational database workflows, and Python automation for production systems.
