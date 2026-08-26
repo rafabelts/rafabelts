@@ -7,7 +7,3 @@
 ## My tech stack
 Some of the technologies that I know and use:</br></br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,figma,git,github,python,vim&theme=dark)](https://skillicons.dev)</br></br>
-
-
-----
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rafabelts)](https://holopin.io/@rafabelts)
