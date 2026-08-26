@@ -38,13 +38,12 @@ Tools and technologies I enjoy working with:
 - **RAG MX Platforms** *(professional experience — private repositories)* — Built full-stack applications, REST APIs, relational database workflows, and Python automation for production systems.
 
 ## Let's Connect
-
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://skillicons.dev" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/rafa-beltran/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://orcid.org" target="_blank">
-  <img src="https://iconify.design" alt="ORCID" height="42" style="vertical-align: middle; background-color: #1a1a1a; padding: 4px; border-radius: 12px; margin: 0 4px;" />
+<a href="https://orcid.org/0009-0000-7719-5895" title="ORCID">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" height="32"/>
 </a>
 <a href="mailto:rafabeltrans17@gmail.com">
-  <img src="https://skillicons.dev" alt="Gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
