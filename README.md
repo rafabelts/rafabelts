@@ -1,4 +1,4 @@
-<img width="1913" height="925" alt="image" src="https://github.com/user-attachments/assets/ece58313-233c-4a45-a3e5-80fee6248740" /># Hi, I'm Rafa Beltran
+# Hi, I'm Rafa Beltran
 
 ## About me
 Software Engineering student and Research Assistant at Universidad Veracruzana, interested in building reliable software and applying machine learning to real-world problems.
