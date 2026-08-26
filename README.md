@@ -36,3 +36,15 @@ Tools and technologies I enjoy working with:
 - **Software Requirements Generation** *(in progress)* — Fine-tuned Mistral 7B with QLoRA to generate software requirements following the EARS syntax. A public implementation is currently being prepared.
 
 - **RAG MX Platforms** *(professional experience — private repositories)* — Built full-stack applications, REST APIs, relational database workflows, and Python automation for production systems.
+
+## Let's Connect
+
+<a href="https://www.linkedin.com/in/rafa-beltran/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://orcid.org/0009-0000-7719-5895">
+  <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>
+<a href="mailto:rafabeltrans17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
