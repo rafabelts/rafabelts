@@ -39,12 +39,12 @@ Tools and technologies I enjoy working with:
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/rafa-beltran/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://skillicons.dev" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org" target="_blank">
-  <img src="https://shields.io" alt="ORCID" height="50" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://iconify.design" alt="ORCID" height="42" style="vertical-align: middle; background-color: #1a1a1a; padding: 4px; border-radius: 12px; margin: 0 4px;" />
 </a>
 <a href="mailto:rafabeltrans17@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <img src="https://skillicons.dev" alt="Gmail" />
 </a>
