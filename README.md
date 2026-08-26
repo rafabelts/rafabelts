@@ -39,12 +39,16 @@ Tools and technologies I enjoy working with:
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/rafa-beltran/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://orcid.org/0009-0000-7719-5895">
-  <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
-<a href="mailto:rafabeltrans17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafa-beltran/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0000-7719-5895" title="ORCID">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rafabeltrans17@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="32" height="32"/>
+  </a>
+</p>
