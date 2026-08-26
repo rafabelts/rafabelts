@@ -17,9 +17,9 @@ Tools and technologies I enjoy working with:
 
 [![Languages](https://skillicons.dev/icons?i=python,ts,js,java&theme=dark)](https://skillicons.dev)
 
-**Software Engineering**
+**Frameworks**
 
-[![Software Engineering](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,mysql&theme=dark)](https://skillicons.dev)
+[![Software Engineering](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark)](https://skillicons.dev)
 
 **Machine Learning & Research**
 
@@ -27,7 +27,7 @@ Tools and technologies I enjoy working with:
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postgres,mysql,vscode&theme=dark)](https://skillicons.dev)
 
 ## Selected Work
 
