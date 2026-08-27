@@ -31,9 +31,9 @@ Tools and technologies I enjoy working with:
 
 ## Selected Work
 
-- **[Medical Image Registration Research](https://github.com/rafabelts/mri-alignment)** — Developed a lightweight CNN–Transformer for motion estimation and ROI localization from 2D cine-MRI using PyTorch.
+- **[Software Requirements Generation](https://github.com/rafabelts/maka-ears)** *(in progress)* — Fine-tuned Mistral 7B with QLoRA to generate software requirements following the EARS syntax. A public implementation is currently being prepared.
 
-- **Software Requirements Generation** *(in progress)* — Fine-tuned Mistral 7B with QLoRA to generate software requirements following the EARS syntax. A public implementation is currently being prepared.
+- **[Medical Image Registration Research](https://github.com/rafabelts/mri-alignment)** — Developed a lightweight CNN–Transformer for motion estimation and ROI localization from 2D cine-MRI using PyTorch.
 
 - **RAG MX Platforms** *(professional experience — private repositories)* — Built full-stack applications, REST APIs, relational database workflows, and Python automation for production systems.
 
